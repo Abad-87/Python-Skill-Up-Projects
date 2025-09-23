@@ -40,3 +40,4 @@ def fun_game():
             print("Guess again.")
 
 fun_game()
+
