@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🐍 Python Skill-Up Projects</h1>
   <p>Projects to enhance my Python programming skills, from beginner to advanced.</p>
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Python GIF" width="300"/>
+  ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 </div>
 
 ---
